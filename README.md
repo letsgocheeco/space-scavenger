@@ -25,6 +25,16 @@ Your objective is to:
 The game combines exploration, resource collection and economic decision-making
 within the technical constraints of the PICO-8 fantasy console.
 
+## Screenshots
+
+![SS1](screenshots/scavenger_0.png)
+![SS2](screenshots/scavenger_1.png)
+![SS2](screenshots/scavenger_2.png)
+![SS1](screenshots/scavenger_3.png)
+![SS2](screenshots/scavenger_4.png)
+![SS2](screenshots/scavenger_5.png)
+![SS1](screenshots/scavenger_6.png)
+
 ## Built With
 
 - PICO-8
